@@ -1,2 +1,249 @@
 # KNAYAM
 Introducing KNAYAM, a company-wide "personal" virtual assistant designed to empower each individual employee and enhance productivity. KNAYAM seamlessly integrates with daily workflows and anything that is repetitive or requires automation, you can feed that to KNAYAM and KNAYAM will do it just by your voice command.
+
+OUR VISION: KNAYAM envisions future where personal assistance is no longer a privilege reserved for the few. We're bringing back the luxury of having a dedicated assistant, reimagined for the modern workforce. With KNAYAM, every individual will have their own AI-driven virtual assistant, accessible 24/7 in their pocket.﻿
+
+Imagine JARVIS for Tony Stark, well KNAYAM might not be a super AI bot now, but it could be one day, in the meantime, it can definitely make your daily life much easier than it is now.
+
+KNAYAM can be used within the boundaries of an organization adhering to all the compliance policies and providing assistance to different departments. ﻿You can use KNAYAM on your mobile, laptop, or a device like Alexa, it's everywhere around you, when you need it, or even when you're away, it can schedule meetings for you, remind you about upcoming meetings, manage your mailbox and clean it up timely.
+
+KNAYAM has limitless applications, for e.g., using for another new method for voice MFA, where it authenticates you with your voice + the password phrase you set. Basically, if any department feels that they need to automate this task through KNAYAM, they can give it to the KNAYAM team, and the team can automate it for them.
+
+KNAYAM can use different AI models for better and multi-language communication which keeps evolving and learning at time passes.﻿
+
+﻿We plan to deploy KNAYAM as a product and then sell it to different companies and provide them support to get revenue generated. The first working prototype can be deployed in 2 years.﻿﻿
+
+Team Name *
+KNAYAM
+Related Idea *
+IT: Proactive monitoring through pattern and trend analysis. (https://hackathon.ncrvoyix.com/?tab=challenges)
+Problem *
+KNAYAM, the company-wide virtual assistant, aims to solve the following problems:
+
+Productivity and Efficiency:
+
+1. Manual task management
+
+2. Inefficient meeting scheduling
+
+3. Disorganized document management
+
+4. Time-consuming data analysis and reporting﻿﻿﻿
+
+﻿﻿IT Department:
+
+1. Network congestion and bandwidth management
+2. Software update and patch management
+3. Backup and disaster recovery challenges
+4. Cybersecurity threats and phishing attacks
+5. Helpdesk ticket management and resolution delays
+6. Server monitoring and uptime optimization
+7. Cloud infrastructure management and cost optimization
+8. Database performance optimization
+9. IT asset management and inventory tracking
+10. Compliance with industry-specific regulations (e.g., HIPAA, PCI-DSS)
+
+
+HR Department:
+
+1. Employee onboarding and offboarding processes
+2. Time-tracking and attendance management
+3. Benefits administration and enrollment
+4. Performance evaluation and feedback management
+5. Training and development scheduling
+6. Employee data management and compliance (e.g., GDPR)
+7. Recruitment and candidate tracking
+8. Workplace culture and engagement surveys
+
+
+Finance Department:
+
+1. Invoice processing and payment tracking
+2. Expense reporting and reimbursement
+3. Budgeting and financial forecasting
+4. Accounts payable and receivable management
+5. Compliance with financial regulations (e.g., SOX, GAAP)
+6. Financial data analysis and reporting
+7. Asset management and depreciation tracking
+8. Tax compliance and planning
+
+
+Operations Department:
+
+1. Supply chain management and logistics
+2. Inventory management and optimization
+3. Facility management and maintenance
+4. Travel arrangements and expense tracking
+5. Meeting and event planning
+6. Vendor management and contract tracking
+7. Quality control and assurance
+8. Compliance with industry-specific regulations (e.g., OSHA)
+
+
+Customer Service Department:
+
+1. Ticket management and resolution delays
+2. Customer feedback and sentiment analysis
+3. Knowledge base management and updates
+4. Chatbot integration and management
+5. Social media monitoring and response
+6. Customer segmentation and personalization
+7. Support analytics and performance metrics
+8. Compliance with customer service regulations (e.g., TCPA)
+
+
+Sales and Marketing Department:
+
+1. Lead generation and qualification
+2. Sales forecasting and pipeline management
+3. Marketing automation and campaign tracking
+4. Customer relationship management (CRM)
+5. Sales analytics and performance metrics
+6. Content management and publishing
+7. Social media management and scheduling
+8. Event planning and management
+
+
+
+Solution *
+KNAYAM aims to solve the following problems below:
+
+﻿﻿Productivity and Efficiency:
+
+1. Manual task management: Anything which requires automation by any team can get feeded to KNAYAM and it can do the work remotely at a scheduled time which is defined.
+
+2. Inefficient meeting scheduling - If you are not available, and someone wants to connect with you, KNAYAM can help them schedule a meeting with you by confirming with you when you're available and confirming them too with your acknowledgement. 
+
+3. Disorganized document management: KNAYAM will have it's own database which keeps updated everytime it learns something new, using machine learning and AI models
+
+4. Time-consuming data analysis and reporting: No need to sit and work on old boring reports, Smart AI features can help track the data and do the analysis and reporting on your behalf and the backend at real time.
+
+﻿
+
+KNAYAM communicates with WinRM service on servers and will follow certain rules and protocols defined in its code.
+
+﻿KNAYAM has a service account with admin privileges, and have allowed firewall ports to communicate with different apps and features in all the servers.
+
+IT Department:
+
+1. Network congestion and bandwidth management: KNAYAM monitors network performance, identifies bottlenecks, and optimizes bandwidth allocation.
+
+2. Software update and patch management: KNAYAM automates software updates and patch installations, ensuring timely security fixes.
+
+3. Backup and disaster recovery challenges: KNAYAM streamlines backup processes and ensures data recovery through automated workflows.
+
+4. Cybersecurity threats and phishing attacks: KNAYAM detects and responds to security threats, alerting teams to potential phishing attacks.
+
+5. Helpdesk ticket management and resolution delays: KNAYAM's AI-powered chatbot resolves routine issues, reducing ticket volume and resolution time.
+
+6. Server monitoring and uptime optimization: KNAYAM continuously monitors server performance, predicting and preventing downtime.
+
+7. Cloud infrastructure management and cost optimization: KNAYAM analyzes cloud usage, identifies cost-saving opportunities, and optimizes resource allocation.
+
+8. Database performance optimization: KNAYAM monitors database performance, indexing, and query optimization for improved efficiency.
+
+9. IT asset management and inventory tracking: KNAYAM maintains accurate records of IT assets, tracking location, status, and maintenance schedules.
+
+10. Compliance with industry-specific regulations: KNAYAM ensures adherence to regulations through automated audits, reporting, and alerts.
+
+HR Department:
+
+1. Employee onboarding and offboarding processes: KNAYAM automates onboarding tasks, sends reminders, and ensures seamless transitions.
+
+2. Time-tracking and attendance management: KNAYAM integrates with time-tracking systems, monitoring attendance and sending alerts for anomalies.
+
+3. Benefits administration and enrollment: KNAYAM guides employees through benefits enrollment, answering questions and streamlining the process.
+
+4. Performance evaluation and feedback management: KNAYAM schedules performance reviews, tracks feedback, and provides actionable insights.
+
+5. Training and development scheduling: KNAYAM coordinates training sessions, sends reminders, and monitors employee progress.
+
+6. Employee data management and compliance: KNAYAM ensures GDPR compliance, managing employee data and consent.
+
+7. Recruitment and candidate tracking: KNAYAM streamlines candidate applications, scheduling interviews, and updating candidate status.
+
+8. Workplace culture and engagement surveys: KNAYAM analyzes survey results, identifying areas for improvement and recommending actions.
+
+Finance Department:
+
+1. Invoice processing and payment tracking: KNAYAM automates invoice processing, sends reminders, and updates payment status.
+
+2. Expense reporting and reimbursement: KNAYAM streamlines expense reporting, verifying receipts and expediting reimbursements.
+
+3. Budgeting and financial forecasting: KNAYAM analyzes financial data, predicting trends and optimizing budget allocations.
+
+4. Accounts payable and receivable management: KNAYAM tracks payments, sends reminders, and ensures timely settlements.
+
+5. Compliance with financial regulations: KNAYAM ensures SOX and GAAP compliance through automated audits and reporting.
+
+6. Financial data analysis and reporting: KNAYAM provides real-time financial insights, identifying areas for cost optimization.
+
+7. Asset management and depreciation tracking: KNAYAM monitors asset value, calculating depreciation and updating financial records.
+
+8. Tax compliance and planning: KNAYAM ensures tax compliance, identifying savings opportunities and optimizing tax strategies.
+
+Operations Department:
+
+1. Supply chain management and logistics: KNAYAM optimizes supply chain workflows, predicting delays and recommending alternatives.
+
+2. Inventory management and optimization: KNAYAM tracks inventory levels, predicting stockouts and overstocking.
+
+3. Facility management and maintenance: KNAYAM schedules maintenance, tracks work orders, and ensures facility upkeep.
+
+4. Travel arrangements and expense tracking: KNAYAM books travel, tracks expenses, and ensures policy compliance.
+
+5. Meeting and event planning: KNAYAM coordinates meetings, sends invitations, and manages event logistics.
+
+6. Vendor management and contract tracking: KNAYAM monitors vendor performance, tracks contracts, and ensures compliance.
+
+7. Quality control and assurance: KNAYAM analyzes quality metrics, identifying areas for improvement and recommending actions.
+
+8. Compliance with industry-specific regulations: KNAYAM ensures OSHA compliance, tracking safety protocols and reporting incidents.
+
+Customer Service Department:
+
+1. Ticket management and resolution delays: KNAYAM's AI-powered chatbot resolves routine issues, reducing ticket volume and resolution time.
+
+2. Customer feedback and sentiment analysis: KNAYAM analyzes customer feedback, identifying areas for improvement and recommending actions.
+
+3. Knowledge base management and updates: KNAYAM maintains accurate knowledge bases, ensuring timely updates and relevant information.
+
+4. Chatbot integration and management: KNAYAM integrates chatbots, ensuring seamless customer interactions and issue resolution.
+
+5. Social media monitoring and response: KNAYAM tracks social media conversations, responding promptly to customer inquiries.
+
+6. Customer segmentation and personalization: KNAYAM analyzes customer data, recommending personalized solutions and offers.
+
+7. Support analytics and performance metrics: KNAYAM provides real-time support metrics, identifying areas for improvement and optimizing workflows.
+
+8. Compliance with customer service regulations: KNAYAM ensures TCPA compliance, tracking customer
+
+﻿
+
+﻿As i said, the applications of using KNAYAM are limitless, the only limit is your mind. You can use KNAYAM for anything and everything that requires automation.
+
+Value *
+We have often heard about having different small chat bots used by different companies and websites, unlike those, KNAYAM, our personal AI assistant, is a game-changer for not just NCR Voyix but for all the organizations which want to adapt this new idea of giving their employees their own personal assistant. It simplifies our internal processes, freeing up our teams to focus on what matters most - delivering exceptional customer experiences. With KNAYAM, we can innovate faster, collaborate better, and stay ahead of the curve.﻿﻿
+
+For our customers, KNAYAM provides personalized support and timely solutions. It's like having a dedicated expert always available to help. KNAYAM builds trust and loyalty by understanding and addressing their needs quickly and accurately. At NCR Voyix, we're committed to empowering our customers. KNAYAM helps us do just that, making technology more accessible and user-friendly.
+
+Technologies Used *
+Python
+
+﻿PowerShell
+
+﻿VMware
+
+﻿Windows-OS
+
+﻿Automation & AI
+
+﻿﻿
+
+Sponsor Challenges
+Link to Source Code *
+https://github.com/sg185523/KNAYAM.git
+Link to Demo Video *
+https://ncrvoyix.sharepoint.com/:v:/r/sites/2024GlobalHackathon528/Shared%20Documents/Video%20Submissions/Knayam%20presentation%20and%20prototype%20demo.mp4?csf=1&web=1&e=12KUSX
+Team Location(s) *
+APAC - Asia Pacific
